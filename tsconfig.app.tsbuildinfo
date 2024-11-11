@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/shared/httpclient.ts","./src/shared/theme.ts","./src/shared/utils.ts","./src/shared/confirm/components/confirmprovider.tsx","./src/shared/confirm/hooks/useconfirm.ts","./src/shared/ui/bulkactions.tsx","./src/shared/ui/themetoggle.tsx","./src/shared/ui/topbar.tsx"],"version":"5.6.2"}
